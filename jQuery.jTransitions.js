@@ -15,10 +15,10 @@
 				});
 
             //Follow resize events so we can refresh the alignments
-			$.resize($.proxy(this._onWindowResize, this));
+			//$.resize($.proxy(this._onWindowResize, this));
 
 
-            this.refresh();
+            //this.refresh();
             this.element
 			    .data('jTransitions.orientation', config.orientation)
 				.data('jTransitions.duration', config.duration)
@@ -26,6 +26,8 @@
                 .data('jTransitions.flushToTop', config.flushToTop)
                 .data('jTransitions.leftOffset', config.leftOffset)
                 .data('jTransitions.callback', config.callback);
+
+            this.refresh();
 
             return this.element;
         },
