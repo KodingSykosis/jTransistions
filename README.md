@@ -3,11 +3,11 @@ jTransitions
 A small library to provide vertical and horizontal slide transitions
 
 <pre>
-      <ul id="container">
-        <li>Item1</li>
-        <li>Item2</li>
-        <li>Item3</li>
-      </ul>
+      &lt;ul id=&quot;container&quot;&gt;
+        &lt;li&gt;Item1&lt;/li&gt;
+        &lt;li&gt;Item2&lt;/li&gt;
+        &lt;li&gt;Item3&lt;/li&gt;
+      &lt;/ul&gt;
 </pre>
 
     $('#container').jTransitions({
@@ -28,5 +28,6 @@ A small library to provide vertical and horizontal slide transitions
         }
     }, 1500);
 
---Example:
+Example:
+--
     <http://jsfiddle.net/kodingsykosis/6ezLe/>

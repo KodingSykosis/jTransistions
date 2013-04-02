@@ -3,11 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6804dd11-5b0c-4a19-ab46-bbad77acad0d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jQuery.jTransitions.js" afterPath="$PROJECT_DIR$/jQuery.jTransitions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jTransistions.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364868483375" ignored="false" />
+    <file path="/Dummy.txt" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364870541866" ignored="false" />
     <file path="/README.md" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364870240814" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +31,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="13" selection-start="641" selection-end="641" vertical-scroll-proportion="0.672447">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jQuery.jTransitions.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery.jTransitions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="14" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+            <state line="9" column="17" selection-start="256" selection-end="256" vertical-scroll-proportion="0.2947977">
               <folding />
             </state>
           </provider>
@@ -64,8 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/jQuery.jTransitions.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -101,7 +92,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -122,6 +112,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,7 +131,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="699" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="699" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -224,14 +215,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jQuery.jTransitions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="14" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+        <state line="20" column="14" selection-start="470" selection-end="470" vertical-scroll-proportion="0.03359684">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="13" selection-start="641" selection-end="641" vertical-scroll-proportion="0.672447">
+        <state line="9" column="17" selection-start="256" selection-end="256" vertical-scroll-proportion="0.2947977">
           <folding />
         </state>
       </provider>
