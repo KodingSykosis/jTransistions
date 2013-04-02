@@ -8,7 +8,7 @@
     <ignored path="jTransistions.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364870708356" ignored="false" />
-    <file path="/README.md" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364870831034" ignored="false" />
+    <file path="/README.md" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364870963825" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="4" selection-start="400" selection-end="400" vertical-scroll-proportion="0.45857418">
+            <state line="45" column="0" selection-start="841" selection-end="841" vertical-scroll-proportion="0.7707129">
               <folding />
             </state>
           </provider>
@@ -229,7 +229,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="4" selection-start="400" selection-end="400" vertical-scroll-proportion="0.45857418">
+        <state line="45" column="0" selection-start="841" selection-end="841" vertical-scroll-proportion="0.7707129">
           <folding />
         </state>
       </provider>

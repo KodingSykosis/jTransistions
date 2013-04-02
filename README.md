@@ -42,6 +42,5 @@ A small library to provide vertical and horizontal slide transitions
         }
     }, 1500);
 
-Example:
---
-    <http://jsfiddle.net/kodingsykosis/6ezLe/>
+**Demo**
+<http://jsfiddle.net/kodingsykosis/6ezLe/>
