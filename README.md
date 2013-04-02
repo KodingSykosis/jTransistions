@@ -23,6 +23,7 @@ A small library to provide vertical and horizontal slide transitions
 </pre>
 
 **JavaScript**
+
     $('#container').jTransitions({
         leftOffset: 0
     });
