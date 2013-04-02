@@ -12,13 +12,15 @@ A small library to provide vertical and horizontal slide transitions
 </pre>
 
 **CSS**
-    #container {
-        width: 100px;
-        height: 20px;
-        list-style: none;
-        padding: 0px;
-        margin: 0px;
-    }
+<pre>
+#container {
+    width: 100px;
+    height: 20px;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+</pre>
 
 **JavaScript**
     $('#container').jTransitions({

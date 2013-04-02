@@ -8,7 +8,7 @@
     <ignored path="jTransistions.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364870708356" ignored="false" />
-    <file path="/README.md" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364870732780" ignored="false" />
+    <file path="/README.md" changelist="6804dd11-5b0c-4a19-ab46-bbad77acad0d" time="1364870831034" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="46" selection-start="296" selection-end="296" vertical-scroll-proportion="0.4913295">
+            <state line="21" column="1" selection-start="371" selection-end="371" vertical-scroll-proportion="0.68786126">
               <folding />
             </state>
           </provider>
@@ -131,7 +131,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="699" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="699" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -229,7 +229,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="46" selection-start="296" selection-end="296" vertical-scroll-proportion="0.4913295">
+        <state line="21" column="1" selection-start="371" selection-end="371" vertical-scroll-proportion="0.68786126">
           <folding />
         </state>
       </provider>
